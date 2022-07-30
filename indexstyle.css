@@ -1,0 +1,40 @@
+@media screen and (min-width: 650px) {
+*{
+    display:flex;
+    flex-direction:column;
+
+}
+}
+
+
+#x {
+color:brown;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size:30px; 
+}
+
+p{
+color:chocolate;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size:25px;
+}
+
+h1{
+color:darkgoldenrod;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-size:50px;
+}
+
+#z{
+text-align:center;
+width:20%;
+height:25%;
+background-color:coral;
+color:blanchedalmond;
+font-family:'Times New Roman', Times, serif;
+font-size:20px;
+display:flex;
+flex-wrap:wrap;
+}
+
+
